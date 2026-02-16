@@ -15,7 +15,7 @@ I'm a data scientist and actuarial scientist with hands-on experience in the ins
 
 ## 📌 Projects
 - **Non-Parametric Probability of First Success** — MSc. dissertation; statistical modeling in R & Python applied to risk scenarios
-- **Life Insurance Uptake Among Kenyan Youth** —  [Life Insurance Uptake Among Kenyan Youth](https://github.com/Mcherono/undergraduate_project) — Logistic regression analysis identifying barriers to insurance adoption
+- [Life Insurance Uptake Among Kenyan Youth](https://github.com/Mcherono/undergraduate_project) — Logistic regression analysis identifying barriers to insurance adoption
 
 ---
 
