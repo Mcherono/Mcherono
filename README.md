@@ -14,6 +14,6 @@ Life Insurance Uptake Among Kenyan Youth — Logistic regression analysis identi
 Last-Mile Delivery Optimization — Python & SQL analysis for operational forecasting at Mega Wholesalers
 
 
-📫 Connect
-Show Image
-Show Image
+## 📫 Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mercy%20Cherono-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mercy-cherono-82148916a/)
+[![Email](https://img.shields.io/badge/Email-mercy.cherono%40aims.ac.rw-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mercy.cherono@aims.ac.rw)
