@@ -1,5 +1,6 @@
 Hi, I'm Mercy Cherono 👋
 I'm a data scientist and actuarial scientist with hands-on experience in the insurance industry.
+
 🎓 MSc. Data Science — AIMS Rwanda (Distinction) | BSc. Actuarial Science — Karatina University (First Class Honours)
 
 🛠️ Skills
